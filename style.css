@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+   display: block;
+   text-align: center;
+   text-sp 
+}
+.input-container{
+    display: flex;
+}
+.color1{
+    margin-left: 620px;
+    margin-top: 120px;
+}
+.color2{
+    margin-top: 120px;
+}
